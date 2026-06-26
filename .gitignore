@@ -6,3 +6,4 @@ coverage/
 .env.local
 data/notes.json
 npm-debug.log*
+.next-dev*.log
